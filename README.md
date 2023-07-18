@@ -1,0 +1,1 @@
+This folder contains few examples of few Java basic concepts.
